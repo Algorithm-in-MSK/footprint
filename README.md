@@ -9,7 +9,7 @@
 ## Score
 | Weeks | sean-ahn | hyperthreading | TBD | TBD |
 |-------|:--------:|----------------|----:|-----|
-| 1st   |          |                |     |     |
+| 1st   | `29164 KB` `68 MS`         |                |     |     |
 | 2nd   |          |                |     |     |
 | 3rd   |          |                |     |     |
 
